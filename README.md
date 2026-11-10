@@ -1,5 +1,7 @@
 # Graph attention networks on structural disconnectomes for stroke outcome prediction
 
+[![DOI](https://zenodo.org/badge/1452818633.svg)](https://doi.org/10.5281/zenodo.24113677)
+
 Code accompanying the article:
 
 > Barouhou A, Machkour N, Tibar H, Regragui W, Benhlima L, Bah S. *Does graph topology matter? End-to-end graph attention networks on structural disconnectomes for functional outcome prediction after ischemic stroke.* Submitted to *Neuroinformatics*.
@@ -46,7 +48,9 @@ Python 3.13, PyTorch 2.11, PyTorch Geometric 2.8.1, scikit-learn 1.6.1, XGBoost 
 
 ## Citation
 
-If you use this code, please cite the article above (citation to be updated upon publication).
+If you use this code, please cite the article above (citation to be updated upon publication) and the archived code:
+
+> Barouhou A. stroke-disconnectome-gat (v1.0). Zenodo. https://doi.org/10.5281/zenodo.24113677
 
 ## License
 
