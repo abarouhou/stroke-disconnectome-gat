@@ -1,0 +1,9 @@
+*.nii
+*.nii.gz
+*.pt
+*.pkl
+*.mat
+*.zip
+data/
+__pycache__/
+.ipynb_checkpoints/

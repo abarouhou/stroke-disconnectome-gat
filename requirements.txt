@@ -1,0 +1,14 @@
+torch>=2.1
+torch_geometric>=2.5
+scikit-learn>=1.4
+xgboost>=2.0
+shap>=0.44
+networkx>=3.2
+nilearn>=0.10
+nibabel>=5.0
+antspyx>=0.4
+numpy
+scipy
+pandas
+statsmodels
+matplotlib
